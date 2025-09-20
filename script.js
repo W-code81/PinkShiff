@@ -38,9 +38,9 @@ function start() {
     alert("You’ve got such a lovely smile 💕");
     alert("And I admire how you’re trying to improve & get better 🌱");
     alert("Pink chiffon 😹");
-    alert("smile small naww")
+    alert("smile small naww 😌");
     alert("Baby sugar 🍯");
-    alert("Enweluzor baby 💫")
+    alert("Enweluzor baby 💫");
     alert("I love you 💘");
     alert("I love you, Bell 💝");
     alert("I want to be with you 💑");
