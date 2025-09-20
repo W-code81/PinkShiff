@@ -26,7 +26,7 @@ function start() {
   let likeCheck = prompt("Do you like me? 😺 (yes / maybe / no)");
 
   if (likeCheck.toLowerCase() == "yes") {
-    prompt("Omg really? 🥺 what do you like about me?");
+    let like = prompt("Omg really? 🥺 what do you like about me?");
     alert("Awnnn thank youuuu 🤗");
     alert("Do you know something?");
     alert("...I like you too 🙈");
