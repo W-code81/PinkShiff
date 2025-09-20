@@ -40,6 +40,7 @@ function start() {
     alert("Pink chiffon 😹");
     alert("smile small naww 😹")
     alert("Baby sugar 🍯");
+    alert("Enweluzor baby 💫")
     alert("I love you 💘");
     alert("I love you, Bell 💝");
     alert("I want to be with you 💑");
