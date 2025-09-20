@@ -38,6 +38,7 @@ function start() {
     alert("You’ve got such a lovely smile 💕");
     alert("And I admire how you’re trying to improve & get better 🌱");
     alert("Pink chiffon 😹");
+    alert("smile small naww 😹")
     alert("Baby sugar 🍯");
     alert("I love you 💘");
     alert("I love you, Bell 💝");
@@ -62,7 +63,7 @@ function start() {
     alert(
       "I wanna know if the person I’m choosing... is also choosing me too 😣"
     );
-    alert("I wanna know what’s on your mind 🫶");
+    alert("I wanna know what’s on your mind 🥺🫶");
     alert("let's talk 😊");
     // pause here
     alert("So... Enweluzor Chukwumah Mabel Sochikamso..");
