@@ -41,8 +41,8 @@ function start() {
     alert("smile small naww 😌");
     alert("Baby sugar 🍯");
     alert("Enweluzor baby 💫");
-    alert("I love you 💘");
-    alert("I love you, Bell 💝");
+    // alert("I love you 💘");
+    // alert("I love you, Bell 💝");
     alert("I want to be with you 💑");
     alert("Grow with you 🌱");
     alert("Let’s get that 690 million together 🤧💸");
@@ -67,6 +67,7 @@ function start() {
     alert("I wanna know what’s on your mind 🥺");
     alert("let's talk 😊");
     // pause here
+    alert("done talking? 😏")
     alert("So... Enweluzor Chukwumah Mabel Sochikamso..");
 
     let goOut = prompt(" will you go out with me? 🙈 (yess / no)");
