@@ -18,7 +18,7 @@ function start() {
   let hobbies = prompt("What are your hobbies 😏 " + yourName + "?");
   alert("WOW 🤭 those are really nice hobbies, I like that about you 😊");
 
-  prompt("What do you like in a guy? 😌");
+  let guyLike = prompt("What do you like in a guy? 😌");
   alert("That’s sweet 😎 I’ll try to be that for you 💖");
 
   alert("Sooo... 👉👈 I gotta ask...");
@@ -119,3 +119,11 @@ function createHeart() {
 }
 
 setInterval(createHeart, 800);
+
+// console.log("Her name is :" + yourName)
+// console.log("Her age is : " + yourAge)
+// console.log("Her hobbies : " + hobbies)
+// console.log("What she likes in a guy : " + guyLike)
+// console.log(" Does she like me : " + likeCheck)
+// console.log("What she likes about me : " + like)
+// console.log("Does she want to go out with me : " + goOut)
